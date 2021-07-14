@@ -1,5 +1,1 @@
-this is first file "third commit"
-
-doing different pactices
-
-
+this is first file
